@@ -1,0 +1,7 @@
+venv*/
+.cache*/
+__pycache__*/
+.env
+OAI_CONFIG_LIST
+.DS_Store
+.idea
